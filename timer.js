@@ -10,11 +10,11 @@
     var pluginName = "countdown360",
       defaults = {
         radius: 10.5,                    // radius of arc
-        strokeStyle: "#ffffff",          // the color of the stroke
+        strokeStyle: "#686868",          // the color of the stroke
         strokeWidth: undefined,          // the stroke width, dynamically calulated if omitted in options
-        fillStyle: "#8ac575",            // the fill color
+        fillStyle: "#353535",            // the fill color
         fontColor: "#ffffff",            // the font color
-        fontFamily: "sans-serif",        // the font family
+        fontFamily: "monospace",             // the font family
         fontSize: undefined,             // the font size, dynamically calulated if omitted in options
         fontWeight: 700,                 // the font weight
         autostart: true,                 // start the countdown automatically
