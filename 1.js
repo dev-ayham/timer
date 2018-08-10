@@ -1,4 +1,3 @@
-            <script type="text/javascript" charset="utf-8">
 
                 var countdown = $("#countdown").countdown360({
                     radius: 60,
@@ -21,4 +20,3 @@
                         alert(timeElapsed);
                     }
                 });
-            </script>
