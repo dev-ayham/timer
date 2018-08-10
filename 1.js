@@ -1,14 +1,3 @@
-
-<center>
-
-            <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js" type="text/javascript"></script>
-        <script src="https://rawgit.com/dev-ayham/timer/master/timer.js" type="text/javascript" charset="utf-8"></script>
-        <div id="container">
-            <div id="countdown">
-                <canvas id="countdown360_countdown" width="50%" height="300">
-                    <span id="countdown-text" role="status" aria-live="assertive"></span>
-                </canvas>
-            </div>
             <script type="text/javascript" charset="utf-8">
 
                 var countdown = $("#countdown").countdown360({
@@ -33,11 +22,3 @@
                     }
                 });
             </script>
-        </div>
-        <br>
-        <center>
-
-            </script>
-        </center>
-</center>
-</div>
